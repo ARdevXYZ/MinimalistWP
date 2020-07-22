@@ -19,10 +19,9 @@ A minimalist, responsive, mobile-first wordpress theme, featuring a fluid grid u
 ## Installation
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
-2. Type in Twenty Twenty in the search form and press the 'Enter' key on your keyboard.
+2. Upload zip.
 3. Click on the 'Activate' button to use your new theme right away.
-4. Go to https://wordpress.org/support/article/twenty-twenty/ for a guide on how to customize this theme.
-5. Navigate to Appearance > Customize in your admin panel and customize to taste.
+4. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
  ## Support
 
@@ -32,6 +31,6 @@ Questions or comments? email andrew.rosinski@gmail.com.
 
 ### 1.0  
 
-* Released: November 12, 2019  
+* Released: June, 2020
 
 Initial release  
